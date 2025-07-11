@@ -1,4 +1,4 @@
-\# 🛍️ Retail Sales Performance Dashboard
+\# Retail Sales Performance Dashboard
 
 
 
@@ -10,7 +10,7 @@ This project explores and visualises sales data from a fictional company, Global
 
 
 
-\## 📌 Project Overview
+\## Project Overview
 
 
 
@@ -32,7 +32,7 @@ Global Superstore operates across several regions and sells a wide range of offi
 
 
 
-\## 🎯 Objectives
+\## Objectives
 
 
 
@@ -52,7 +52,7 @@ Global Superstore operates across several regions and sells a wide range of offi
 
 
 
-\## 🧠 Key Business Questions
+\## Key Business Questions
 
 
 
@@ -72,7 +72,7 @@ Global Superstore operates across several regions and sells a wide range of offi
 
 
 
-\## 📂 Project Structure
+\## Project Structure
 
 
 
@@ -104,7 +104,7 @@ retail-sales-dashboard/
 
 
 
-\## 🛠️ Tools \& Libraries
+\## Tools \& Libraries
 
 
 
@@ -127,7 +127,7 @@ retail-sales-dashboard/
 1. **Overall Performance**  
    - Total Sales: \$2,297,200.86  
    - Total Profit: \$286,397.02  
-      - Total Quantity Sold: \37,873 items
+      - Total Quantity Sold: 37,873 items
 
 2. **Discount vs Profit**  
    - Negative correlation: deeper discounts erode profit margins.
@@ -147,7 +147,7 @@ retail-sales-dashboard/
 6.  **Business Recommendations**
       - Reduce discounting on underperforming sub-categories (e.g. Tables, Bookcases) where deep discounts result in net losses.
       - Focus marketing and inventory planning on Copiers and Phones which drive strong profitability.
-      - Investigate shipping/logistics in the South region** to understand root causes of repeated losses.
+      - Investigate shipping/logistics in the South region to understand root causes of repeated losses.
       - Ramp up marketing campaigns and stock in Q4 (especially November–December) to maximise seasonal demand.
       - Monitor early to mid-year slowdowns and explore promotions or product bundling to offset sales dips.
 
