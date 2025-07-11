@@ -122,7 +122,7 @@ retail-sales-dashboard/
 
 ---
 
-## 📈 Insights , Findings & Recommendations
+## Insights , Findings & Recommendations
 
 1. **Overall Performance**  
    - Total Sales: \$2,297,200.86  
