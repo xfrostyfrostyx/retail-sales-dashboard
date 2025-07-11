@@ -10,7 +10,7 @@ This project explores and visualises sales data from a fictional company, Global
 
 
 
-## Project Overview (Simulate)
+## Project Overview (Fictional)
 
 
   
