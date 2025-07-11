@@ -153,7 +153,7 @@ retail-sales-dashboard/
 
 ---
 
-## 📊 Visualisations
+## Visualisations
 
 ![Sales by Category](outputs/charts/sales_by_category.png)  
 ![Bottom 5 Sub-Categories by Profit](outputs/charts/bottom5_subcats.png)  
@@ -166,11 +166,11 @@ retail-sales-dashboard/
 
 ---
 
-\## 📥 Data Source
+\## Data Source
 
 
 
-\- 📁 `Superstore.csv` — A fictional retail dataset available on \[Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+\- `Superstore.csv` — A fictional retail dataset available on \[Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 
 
@@ -178,7 +178,7 @@ retail-sales-dashboard/
 
 
 
-\## ✍️ Author
+\## Author
 
 
 
@@ -192,13 +192,11 @@ Data Analyst | Creative Problem Solver | Esports \& TCG Enthusiast
 
 
 
-\## 📌 Status
+\## Status
 
+Complete — EDA & insights finalized   
 
-
-🟢 Complete — EDA & insights finalized   
-
-📅 Last Updated: July 2025
+Last Updated: July 2025
 
 
 
