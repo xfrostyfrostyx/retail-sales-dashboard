@@ -10,12 +10,10 @@ This project explores and visualises sales data from a fictional company, Global
 
 
 
-## Project Overview
+## Project Overview (Simulate)
 
 
-
-\*\*Client Brief (Fictional):\*\*  
-
+  
 Global Superstore operates across several regions and sells a wide range of office supplies, furniture, and technology products. Management needs a clear, data-driven dashboard to help:
 
 \- Identify best-selling products
@@ -166,7 +164,7 @@ retail-sales-dashboard/
 
 ---
 
-\## Data Source
+## Data Source
 
 
 
@@ -178,7 +176,7 @@ retail-sales-dashboard/
 
 
 
-\## Author
+## Author
 
 
 
@@ -192,7 +190,7 @@ Data Analyst | Creative Problem Solver | Esports \& TCG Enthusiast
 
 
 
-\## Status
+## Status
 
 Complete — EDA & insights finalized   
 
