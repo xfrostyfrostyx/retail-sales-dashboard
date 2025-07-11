@@ -1,4 +1,4 @@
-\# Retail Sales Performance Dashboard
+## Retail Sales Performance Dashboard
 
 
 
@@ -10,7 +10,7 @@ This project explores and visualises sales data from a fictional company, Global
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -32,7 +32,7 @@ Global Superstore operates across several regions and sells a wide range of offi
 
 
 
-\## Objectives
+## Objectives
 
 
 
@@ -52,7 +52,7 @@ Global Superstore operates across several regions and sells a wide range of offi
 
 
 
-\## Key Business Questions
+## Key Business Questions
 
 
 
@@ -72,7 +72,7 @@ Global Superstore operates across several regions and sells a wide range of offi
 
 
 
-\## Project Structure
+## Project Structure
 
 
 
@@ -104,7 +104,7 @@ retail-sales-dashboard/
 
 
 
-\## Tools \& Libraries
+## Tools \& Libraries
 
 
 
