@@ -180,7 +180,7 @@ retail-sales-dashboard/
 
 
 
-\*\*Ka Wai Gary Lai\*\*  
+**Ka Wai Gary Lai**  
 
 Data Analyst | Creative Problem Solver | Esports \& TCG Enthusiast
 
